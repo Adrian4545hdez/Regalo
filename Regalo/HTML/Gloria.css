@@ -1,0 +1,162 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(226, 111, 218);
+    font-family: 'Roboto',
+    sans-serif;
+    height: 100%;
+    width: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor{
+    background-color: rgb(47, 147, 241);
+    border-radius: 15px;
+    height: 90%;
+    width: 80%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 5%;
+}
+.contenedor button{
+    height: 10%;
+    width: 50%;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(3, 98, 38);
+    margin-top: 5%;
+    border: none;
+}
+.contenedor img{
+    max-width: auto;
+    height: 60%;
+    margin-top: 2%;
+    border-radius: 15px;
+}
+#c2{
+    display: none;
+}
+#c3 {
+    display: none;
+}
+#c4 {
+    display: none;
+}
+#c5 {
+    display: none;
+}
+#c6 {
+    display: none;
+}
+#c7 {
+    display: none;
+}
+#c8 {
+    display: none;
+}
+#c9 {
+    display: none;
+}
+#c10 {
+    display: none;
+}
+#c11 {
+    display: none;
+}
+#c12 {
+    display: none;
+}
+#c13 {
+    display: none;
+}
+#c14 {
+    display: none;
+}
+#c15 {
+    display: none;
+}
+#c16 {
+    display: none;
+}
+#c17 {
+    display: none;
+}
+#c18 {
+    display: none;
+}
+#c19 {
+    display: none;
+}
+#c20 {
+    display: none;
+}
+#c21 {
+    display: none;
+}
+#c22 {
+    display: none;
+}
+#c23 {
+    display: none;
+}
+#c24 {
+    display: none;
+}
+#c25 {
+    display: none;
+}
+#c26 {
+    display: none;
+}
+#c27 {
+    display: none;
+}
+#c28 {
+    display: none;
+}
+#c29 {
+    display: none;
+}
+#c30 {
+    display: none;
+}
+#c31 {
+    display: none;
+}
+#c32 {
+    display: none;
+}
+#c33 {
+    display: none;
+}
+#c34 {
+    display: none;
+}
+#c35 {
+    display: none;
+}
+#c36 {
+    display: none;
+}
+#c37 {
+    display: none;
+}
+#c38 {
+    display: none;
+}
+#c39 {
+    display: none;
+}
+#c40 {
+    display: none;
+}
+#c41 {
+    display: none;
+}
